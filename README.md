@@ -1,6 +1,7 @@
 # 🌞⚡ Microgrid Optimization Project
 
 This project focuses on the optimization of a hybrid **microgrid** that includes **solar PV**, **battery storage**, an optional **wind turbine**, and **grid interaction**.
+**Linear programming** is used.
 The goal is to determine cost-optimal or emission-optimal system design over different planning horizons while considering uncertainty and multiple operating scenarios.
 
 The project was implemented using **Julia**, **JuMP**, and **Gurobi**, following the tasks from the *Introduction to Numerical Optimization* course.
